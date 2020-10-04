@@ -1,4 +1,4 @@
-const API_KEY = '84ceea1e820721334a0c9f319cac6eea';
+const API_KEY = '<PUT YOUR OWN DEVLOPER ID>';
 const http_request = {
     fetchTrendingNow: `trending/all/day?api_key=${API_KEY}&language=en-US`,
     fetchMovieOrginals: `discover/tv?api_key=${API_KEY}&with_network=213`,
