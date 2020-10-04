@@ -1,4 +1,4 @@
-# movie-flix
+# MOVIE-FLIX
 
 # NETFLIX CLONE USING REACT
 # API https://www.themoviedb.org/settings/api
